@@ -30,7 +30,7 @@ PRODUCT_NAME := aospa_beryllium
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := beryllium
 PRODUCT_MANUFACTURER := Xiaomi
-PRODUCT_MODEL := Poco F1
+PRODUCT_MODEL := POCO F1
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
